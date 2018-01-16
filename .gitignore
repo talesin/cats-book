@@ -9,7 +9,6 @@ classes/
 artifact-version.properties
 *.swp
 *.orig
-*.sc
 *.log
 .DS_Store
 .cache
@@ -28,5 +27,3 @@ tmp/
 scratch*
 .ensime*
 .gradletasknamecache
-!/src/main/scala/ch01/TypeClasses.sc
-!/src/main/scala/ch01/Exercises.sc
